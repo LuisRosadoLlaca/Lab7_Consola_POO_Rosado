@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\bin\Debug\Lab7_Consola_POO_Rosado.exe.config
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\bin\Debug\Lab7_Consola_POO_Rosado.exe
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\bin\Debug\Lab7_Consola_POO_Rosado.pdb
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\obj\Debug\Lab7_Consola_POO_Rosado.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\obj\Debug\Lab7_Consola_POO_Rosado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\obj\Debug\Lab7_Consola_POO_Rosado.exe
+C:\Users\USUARIO\source\repos\Lab7_Consola_POO_Rosado\obj\Debug\Lab7_Consola_POO_Rosado.pdb
